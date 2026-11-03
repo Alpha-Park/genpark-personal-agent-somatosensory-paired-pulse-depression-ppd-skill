@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-somatosensory-paired-pulse-depression-ppd-skill",
+  "version": "1.0.0",
+  "description": "Calculates somatosensory evoked potential Paired-Pulse Depression (PPD) ratio (A2/A1) and suppression percentage to assess cortical GABAergic inhibition.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "neurophysiology",
+    "paired-pulse",
+    "intracortical-inhibition",
+    "gaba",
+    "plasticity",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
